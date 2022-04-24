@@ -16,7 +16,7 @@ After piping the dataset (in this case musical instruments) through an ETL proce
 
 ### Number of 5-star reviews in the cases of Vine AND non-Vine
 - Vine members gave 34 5-star ratings of the above ratings
-- -Non-vine members gave 8,212 5-star ratings of the above ratings
+- Non-vine members gave 8,212 5-star ratings of the above ratings
 
 ### Percentage of 5-star reviews in the cases of Vine AND non-Vine
 - Vine members gave a percentage of 56.67 % of 5-star instrument reviews
