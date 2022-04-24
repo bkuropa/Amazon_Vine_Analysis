@@ -29,5 +29,6 @@ In this particular dataset, there is no difference in the reviews between Vine a
 - 3-star:  15% vs. 9%
 - 2-star:  2%  vs. 5%
 - 1-star:  0%  vs. 11%
+
 One can notice differences of course - most notable in 4-star reviews - but inconsistently different.  A proper statistcal analysis is due.  In addition, one may consider generating different orders and combinations of current data (bootstrap-like) or randomly selected smaller sects of the volunteer dataset.  The difference between 60 votes (Vine) and 14,477 (Non-vine) is greatly significant and makes pulling out true conclusions difficult.
 
